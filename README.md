@@ -5,6 +5,7 @@ SMACC is an application written in Java that allows to classify microplastic par
 ### Citation
 ```
 SMACC: A System for Microplastics Automatic Counting and Classification
-Javier Lorenzo-Navarro; Modesto Castrillón-Santana; Enrico Santesarti; Maria De Marsico; Ico Martínez; Eugenio Raymond; May Gómez; Alicia Herrera.
+Javier Lorenzo-Navarro; Modesto Castrillón-Santana; Enrico Santesarti; Maria De Marsico; 
+Ico Martínez; Eugenio Raymond; May Gómez; Alicia Herrera.
 IEEE Access, vol. 8, pp. 25249-25261, 2020. DOI: 10.1109/ACCESS.2020.2970498
 ```
